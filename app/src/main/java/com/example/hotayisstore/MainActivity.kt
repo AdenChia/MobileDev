@@ -59,7 +59,7 @@ class MainActivity : AppCompatActivity() {
         binding.fragmentContainerFull.visibility = View.VISIBLE
     }
 
-    //fragment in upper of menu
+    //fragment in upper of the menu
     fun replaceFragment(fragment: Fragment){
         if(fragment != null){
             val transaction = supportFragmentManager.beginTransaction()
