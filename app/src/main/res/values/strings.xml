@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Hotayi\'s Store</string>
+
+    //Navigation bar string created by Chong Jing Yung
+    <string name="home">Home</string>
+    <string name="outbound">Outbound</string>
+    <string name="inbound">Inbound</string>
+    <string name="scan_or_search">Search</string>
+    <string name="profile">Employee</string>
+
+    //Login
+    <string name="login">Login</string>
+    <string name="login_success">Successful Login</string>
+    <string name="logout">Logout</string>
+    <string name="logout_success">Successful Logout</string>
+
+
+</resources>

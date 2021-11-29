@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_home"
+        android:title="@string/home"
+        app:cnb_backgroundColor="@color/white"
+        app:cnb_iconTintMode="src_in"
+        app:cnb_iconColor="@color/home_c"/>
+    <item
+        android:id="@+id/outbound"
+        android:state_selected="true"
+        android:icon="@drawable/ic_outbound"
+        android:title="@string/outbound"
+        app:cnb_backgroundColor="@color/white"
+        app:cnb_iconTintMode="src_in"
+        app:cnb_iconColor="@color/outbound_c"/>
+    <item
+        android:id="@+id/inbound"
+        android:icon="@drawable/ic_inbound"
+        android:title="@string/inbound"
+        app:cnb_backgroundColor="@color/white"
+        app:cnb_iconTintMode="src_in"
+        app:cnb_iconColor="@color/inbound_c" />
+    <item
+        android:id="@+id/scan_or_search"
+        android:icon="@drawable/ic_scan_or_search"
+        android:title="@string/scan_or_search"
+        app:cnb_backgroundColor="@color/white"
+        app:cnb_iconTintMode="src_in"
+        app:cnb_iconColor="@color/scan_or_search_c" />
+    <item
+        android:id="@+id/profile"
+        android:icon="@drawable/ic_profile"
+        android:title="@string/profile"
+        app:cnb_backgroundColor="@color/white"
+        app:cnb_iconTintMode="src_in"
+        app:cnb_iconColor="@color/profile_c" />
+
+</menu>
