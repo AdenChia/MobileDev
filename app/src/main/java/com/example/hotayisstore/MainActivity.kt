@@ -26,7 +26,6 @@ class MainActivity : AppCompatActivity() {
 
     private val loginFragment = LoginFragment()
 
-
     private lateinit var binding: ActivityMainBinding
 
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -39,8 +38,6 @@ class MainActivity : AppCompatActivity() {
         fm.beginTransaction().add(R.id.fragment_container_full, loginFragment).commit()
 
         menuInstruction()
-
-
     }
 
     fun hideMenu(){
@@ -62,6 +59,7 @@ class MainActivity : AppCompatActivity() {
         binding.fragmentContainerFull.visibility = View.VISIBLE
     }
 
+    //fragment in upper of menu
     fun replaceFragment(fragment: Fragment){
         if(fragment != null){
             val transaction = supportFragmentManager.beginTransaction()
@@ -70,6 +68,7 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
+    //fragment in full of screen
     fun replaceFragmentFull(fragment: Fragment){
         if(fragment != null){
             val transaction = supportFragmentManager.beginTransaction()
@@ -78,6 +77,7 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
+    //select menu option
     private fun menuInstruction(){
         //menu instruction
         menu.setItemSelected(R.id.home)
