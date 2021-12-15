@@ -27,10 +27,9 @@ class ReportActivity : AppCompatActivity() {
         binding = ActivityReportBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
-        //TODO: get idReport(needed) : allow me to fill in itemID directly
+        //get idReport(needed) : allow system to fill in itemID directly
         var aintent = intent
         val id = aintent.getStringExtra("idReport")
-        //Toast.makeText(applicationContext,"$id",Toast.LENGTH_SHORT).show()
         binding.editTextItemID.setText(id)
 
         supportActionBar!!.setDisplayHomeAsUpEnabled(true)
