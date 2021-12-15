@@ -6,16 +6,115 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     tools:context=".Scan_or_Search.ScanOrSearchFragment">
 
-    <TextView
-        android:id="@+id/scan_or_search"
+    <com.budiyev.android.codescanner.CodeScannerView
+        android:id="@+id/scanner_view_search"
+        android:layout_width="312dp"
+        android:layout_height="276dp"
+        android:layout_marginTop="24dp"
+        android:visibility="gone"
+        app:autoFocusButtonColor="@color/white"
+        app:autoFocusButtonVisible="true"
+        app:flashButtonColor="@android:color/white"
+        app:flashButtonVisible="true"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView8"
+        app:maskColor="#43000000">
+
+
+    </com.budiyev.android.codescanner.CodeScannerView>
+
+
+    <EditText
+        android:id="@+id/editTextInputItemID"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Scan or Search"
-        android:textSize="36sp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintLeft_toLeftOf="parent"/>
+        android:layout_marginTop="8dp"
+        android:background="@drawable/custom_search_input"
+        android:drawableStart="@drawable/ic_baseline_search_24"
+        android:drawablePadding="12dp"
+        android:ems="10"
+        android:hint="@string/inputItemId"
+        android:inputType="textPersonName"
+        android:minHeight="48dp"
+        android:paddingStart="12dp"
+        android:paddingEnd="12dp"
+        android:textAlignment="viewStart"
+        android:textColor="@color/black"
+        android:textSize="24sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageViewScanImage" />
+
+    <Button
+        android:id="@+id/buttonProceedScanSearch"
+        android:layout_width="130dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/custom_scan_button"
+        android:text="@string/searchItem"
+        android:textColor="@color/blue_Light"
+        android:textSize="16sp"
+        app:backgroundTint="@null"
+        app:layout_constraintStart_toStartOf="@+id/editTextInputItemID"
+        app:layout_constraintTop_toBottomOf="@+id/editTextInputItemID" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="8dp"
+        android:fontFamily="sans-serif-medium"
+        android:text="@string/product_scan"
+        android:textAlignment="center"
+        android:textColor="@android:color/darker_gray"
+        android:textSize="34sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="16dp"
+        android:text="@string/scan_desc"
+        android:textAlignment="center"
+        android:textColor="@android:color/darker_gray"
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView3" />
+
+    <ImageView
+        android:id="@+id/imageViewScanImage"
+        android:layout_width="289dp"
+        android:layout_height="312dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:src="@drawable/ic_baseline_qr_code_scanner_24"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView8" />
+
+    <Button
+        android:id="@+id/buttonShowScan"
+        android:layout_width="130dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/custom_scan_button"
+        android:text="@string/scanItemSearch"
+        android:textAllCaps="false"
+        android:textColor="@color/blue_Light"
+        android:textSize="16sp"
+        app:backgroundTint="@null"
+        app:layout_constraintEnd_toEndOf="@+id/editTextInputItemID"
+        app:layout_constraintTop_toBottomOf="@+id/editTextInputItemID" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>

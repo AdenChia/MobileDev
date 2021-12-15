@@ -8,10 +8,156 @@
     <string name="scan_or_search">Search</string>
     <string name="profile">Employee</string>
 
-    //Login
+    //Inbound created by Chong Jing Yung
+    <string name="proceed">Proceed</string>
+    <string name="complete">Complete</string>
+    <string name="scanItemCode">Scan Item Code</string>
+    <string name="scanRackCode">Scan Rack Code</string>
+    <string name="continueInbound">Continue</string>
+    <string name="rules">Terms and Conditions</string>
+    <string name="no_1">1. Please follow the steps instruction to complete Inbound.</string>
+    <string name="no_2">2. Any accident must inform department manager.</string>
+    <string name="no_3">3. Must wear helmet and Safety clothing.</string>
+    <string name="no_4">4. I am solely responsible for all consequences
+                        arising from incorrectly filling in my personal information,
+                        and the organizer shall not be liable for any loss or errors
+                        in the information submitted by me due to transmission reasons.</string>
+    <string name="agree">I agree to the Terms and Conditions</string>
+    <string name="scanItem">Scan Item Barcode</string>
+    <string name="inCap_img">Capture Photo</string>
+    <string name="inDate">Date</string>
+    <string name="inStatus">Inbound Status</string>
+    <string name="inEmpNo">Employee No</string>
+    <string name="inItemID">Item ID :</string>
+    <string name="inItemName">Item Name :</string>
+    <string name="inPrice">Price (RM) :</string>
+    <string name="inQuantity">Quantity in Store :</string>
+    <string name="inCategory">Category :</string>
+    <string name="inRackID">Rack ID :</string>
+    <string name="inQuantityReceive">Quantity Receive</string>
+
+    //Outbound created by Chong Jing Yung
+    <string name="uploadQR">This Qr Code is already include this Outbound information,
+                            kindly upload to marketing department.</string>
+    <string name="uploadQr">Upload and Print</string>
+    <string name="outStatus">Outbound Status</string>
+    <string name="outList">Outbound List</string>
+    <string name="outItemID">Item ID</string>
+    <string name="outQuantity">Quantity</string>
+    <string name="outCollect">Collect</string>
+    <string name="outCompleted">C - Completed</string>
+    <string name="outProcessing">P - Processing</string>
+    <string name="outIncomplete">I - Incomplete</string>
+    <string name="outScan">Scan</string>
+    <string name="outSelect">Select</string>
+    <string name="rackLocation">Rack Location</string>
+
+    //Search or Scan created by Chew Man Hee
+    <string name="scan_desc">You can find the details of a product in a few seconds
+                            just by scanning the barcode or entering the barcode
+                            ID of the product.</string>
+    <string name="product_scan">PRODUCT SCAN</string>
+    <string name="scanItemSearch">SCAN</string>
+    <string name="inputItemId">Item ID</string>
+    <string name="searchItem">SEARCH</string>
+
+    //item info created by Chew Man Hee
+    <string name="item_header">ITEM INFORMATION</string>
+    <string name="item_name">Name</string>
+    <string name="box_id">ID</string>
+    <string name="price_box">Price</string>
+    <string name="rack_id">Rack (ID)</string>
+    <string name="quantity_box">Quantity (Box)</string>
+    <string name="hide">HIDE</string>
+    <string name="category">Category</string>
+    <string name="rack1">Rack-01</string>
+    <string name="rack2">Rack-02</string>
+    <string name="rack3">Rack-03</string>
+    <string name="rack4">Rack-04</string>
+    <string name="rack5">Rack-05</string>
+    <string name="rack6">Rack-06</string>
+    <string name="rack7">Rack-07</string>
+    <string name="rack8">Rack-08</string>
+    <string name="rack9">Rack-09</string>
+    <string name="rack10">Rack-10</string>
+    <string name="rack11">Rack-11</string>
+    <string name="rack12">Rack-12</string>
+    <string name="rack13">Rack-13</string>
+    <string name="rack14">Rack-14</string>
+    <string name="rack15">Rack-15</string>
+    <string name="rack16">Rack-16</string>
+    <string name="rack17">Rack-17</string>
+    <string name="rack18">Rack-18</string>
+    <string name="rack19">Rack-19</string>
+    <string name="rack20">Rack-20</string>
+    <string name="rack21">Rack-21</string>
+    <string name="rack22">Rack-22</string>
+    <string name="rack23">Rack-23</string>
+    <string name="rack24">Rack-24</string>
+    <string name="rack25">Rack-25</string>
+
+    //Report problem Created by Eddy Loh Hai Lun
+    <string name="menu_home">Home</string>
+    <string name="menu_report">Report</string>
+    <string name="report_head">Report Item Problem</string>
+    <string name="report">Report</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_scanorsearch">Search</string>
+    <string name="menu_inbound">Inbound</string>
+    <string name="menu_outbound">Outbound</string>
+    <string name="menu_login">Login</string>
+    <string name="copyright">© Copyright 2021 The Hotayi\'s Store Group.
+                            All rights reserved.</string>
+
+    //Dashboard Created by Eddy Loh Hai Lun
+    <string name="welcome">Welcome!</string>
+    <string name="incomplete">Incomplete: </string>
+    <string name="processing">Processing: </string>
+    <string name="completed">Completed: </string>
+    <string name="outboundHome">Outbound List</string>
+    <string name="reportHome">Report Item Problem</string>
+    <string name="allItemHome">All Items</string>
+    <string name="submit">Submit</string>
+    <string name="others">Others</string>
+    <string name="itemBroken">Item Broken</string>
+    <string name="othersMessage">E.g. Item Burn, Incorrect Quantity</string>
+    <string name="itemID">Item ID</string>
+    <string name="quantity">Quantity</string>
+    <string name="egID">eg ID</string>
+    <string name="egQty">Incorrect Just Write Actual Value Left</string>
+    <string name="incorrectQty">Incorrect Quantity</string>
+    <string name="view">View</string>
+    <string name="item">Item and ID</string>
+    <string name="chooseOne">You can only Choose 1 from the Checkbox</string>
+    <string name="item_idorname">E.G B1 Sensor Bulb or S-C1-00001</string>
+    <string name="search">Search</string>
+    <string name="required">Required Field</string>
+    <string name="invalidQty">Invalid Quantity</string>
+    <string name="onlyChoose1">Please Only Choose 1 From The Checkbox</string>
+
+    //Login Created by Chia Kit Yao
     <string name="login">Login</string>
     <string name="login_success">Successful Login</string>
     <string name="logout">Logout</string>
     <string name="logout_success">Successful Logout</string>
+    <string name="register">Register</string>
+    <string name="emp_ID">Employee ID</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="password">Password</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="forget_password2">Forget\nPassword</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="create_account">Create Account</string>
+    <string name="new_password">New Password</string>
+    <string name="new_password2">Re-enter Password</string>
+
+    //Profile created by Chia Kit Yao
+    <string name="emp_name">Name</string>
+    <string name="age">Age</string>
+    <string name="emp_position">Position</string>
+    <string name="emp_date">Joined Date</string>
+    <string name="phone">Phone Number</string>
+    <string name="full_name">Full Name</string>
+    <string name="email">E-mail</string>
 
 </resources>

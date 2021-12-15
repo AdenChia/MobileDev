@@ -17,7 +17,7 @@
     <color name="home_c">#0728FF</color>
     <color name="outbound_c">#E91E63</color>
     <color name="inbound_c">#9C27B0</color>
-    <color name="scan_or_search_c">#4CAF50</color>
+    <color name="scan_or_search_c">#5ddef4</color>
     <color name="profile_c">#2196F3</color>
 
 </resources>

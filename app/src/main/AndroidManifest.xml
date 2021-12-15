@@ -2,13 +2,52 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.hotayisstore">
 
+    <uses-permission android:name="android.permission.CAMERA" />
+
     <application
+        android:name=".MyApplication"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.HotayisStore">
+        <activity
+            android:name=".Profile.LoginActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Home.AllItemActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Scan_or_Search.ItemInfoActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Outbound.Outbound_Complete_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Outbound.Outbound_Upload_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Outbound.Outbound_Item_Scan_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Outbound.Outbound_Item_List_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Inbound.Inbound_Complete_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Inbound.Inbound_Storing_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Home.ReportActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Inbound.Inbound_Record_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Inbound.InboundActivity"
+            android:exported="false" />
         <activity
             android:name=".MainActivity"
             android:exported="true">

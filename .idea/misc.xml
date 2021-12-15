@@ -12,7 +12,54 @@
         <entry key="..\:/Users/Win X/Desktop/HotayisStore/app/src/main/res/layout/fragment_scan_or_search.xml" value="0.23324275362318841" />
         <entry key="..\:/Users/Win X/Desktop/HotayisStore/app/src/main/res/layout/fragment_test.xml" value="0.23854166666666668" />
         <entry key="..\:/Users/Win X/Desktop/HotayisStore/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.264" />
-        <entry key="..\:/Users/Win X/Desktop/RDS2 SEM2 MAD/ASSIGNMENT/HotayisStore/app/src/main/res/layout/fragment_profile.xml" value="0.23007246376811594" />
+        <entry key="..\:/Users/Win X/Desktop/RDS2 SEM2 MAD/ASSIGNMENT/HotayisStore/app/src/main/res/drawable-v24/divider.xml" value="0.10277777777777777" />
+        <entry key="..\:/Users/Win X/Desktop/RDS2 SEM2 MAD/ASSIGNMENT/HotayisStore/app/src/main/res/drawable-v24/ic_baseline_report_problem_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/Win X/Desktop/RDS2 SEM2 MAD/ASSIGNMENT/HotayisStore/app/src/main/res/drawable-v24/ic_search_black_24dp.xml" value="0.10277777777777777" />
+        <entry key="..\:/Users/Win X/Desktop/RDS2 SEM2 MAD/ASSIGNMENT/HotayisStore/app/src/main/res/drawable-v24/outline_inventory_24.xml" value="0.10277777777777777" />
+        <entry key="..\:/Users/Win X/Desktop/RDS2 SEM2 MAD/ASSIGNMENT/HotayisStore/app/src/main/res/drawable-v24/profile_job.xml" value="0.1" />
+        <entry key="..\:/Users/Win X/Desktop/RDS2 SEM2 MAD/ASSIGNMENT/HotayisStore/app/src/main/res/drawable-v24/signup_phone.xml" value="0.1" />
+        <entry key="..\:/Users/Win X/Desktop/RDS2 SEM2 MAD/ASSIGNMENT/HotayisStore/app/src/main/res/drawable/custom_box.xml" value="0.1" />
+        <entry key="..\:/Users/Win X/Desktop/RDS2 SEM2 MAD/ASSIGNMENT/HotayisStore/app/src/main/res/drawable/custom_scan_button.xml" value="0.10277777777777777" />
+        <entry key="..\:/Users/Win X/Desktop/RDS2 SEM2 MAD/ASSIGNMENT/HotayisStore/app/src/main/res/drawable/custom_search_input.xml" value="0.10277777777777777" />
+        <entry key="..\:/Users/Win X/Desktop/RDS2 SEM2 MAD/ASSIGNMENT/HotayisStore/app/src/main/res/drawable/ic_baseline_domain_verification_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/Win X/Desktop/RDS2 SEM2 MAD/ASSIGNMENT/HotayisStore/app/src/main/res/drawable/ic_baseline_qr_code_scanner_24.xml" value="0.1" />
+        <entry key="..\:/Users/Win X/Desktop/RDS2 SEM2 MAD/ASSIGNMENT/HotayisStore/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.1" />
+        <entry key="..\:/Users/Win X/Desktop/RDS2 SEM2 MAD/ASSIGNMENT/HotayisStore/app/src/main/res/drawable/ic_home.xml" value="0.10277777777777777" />
+        <entry key="..\:/Users/Win X/Desktop/RDS2 SEM2 MAD/ASSIGNMENT/HotayisStore/app/src/main/res/drawable/ic_rack.xml" value="0.1" />
+        <entry key="..\:/Users/Win X/Desktop/RDS2 SEM2 MAD/ASSIGNMENT/HotayisStore/app/src/main/res/drawable/ic_rack_on.xml" value="0.1" />
+        <entry key="..\:/Users/Win X/Desktop/RDS2 SEM2 MAD/ASSIGNMENT/HotayisStore/app/src/main/res/drawable/login_password.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/Win X/Desktop/RDS2 SEM2 MAD/ASSIGNMENT/HotayisStore/app/src/main/res/drawable/login_username.xml" value="0.1" />
+        <entry key="..\:/Users/Win X/Desktop/RDS2 SEM2 MAD/ASSIGNMENT/HotayisStore/app/src/main/res/font/muli_bold.xml" value="0.1" />
+        <entry key="..\:/Users/Win X/Desktop/RDS2 SEM2 MAD/ASSIGNMENT/HotayisStore/app/src/main/res/layout/activity_all_item.xml" value="0.2" />
+        <entry key="..\:/Users/Win X/Desktop/RDS2 SEM2 MAD/ASSIGNMENT/HotayisStore/app/src/main/res/layout/activity_inbound.xml" value="0.264" />
+        <entry key="..\:/Users/Win X/Desktop/RDS2 SEM2 MAD/ASSIGNMENT/HotayisStore/app/src/main/res/layout/activity_inbound_complete.xml" value="0.4" />
+        <entry key="..\:/Users/Win X/Desktop/RDS2 SEM2 MAD/ASSIGNMENT/HotayisStore/app/src/main/res/layout/activity_inbound_record.xml" value="0.4" />
+        <entry key="..\:/Users/Win X/Desktop/RDS2 SEM2 MAD/ASSIGNMENT/HotayisStore/app/src/main/res/layout/activity_inbound_storing.xml" value="0.4" />
+        <entry key="..\:/Users/Win X/Desktop/RDS2 SEM2 MAD/ASSIGNMENT/HotayisStore/app/src/main/res/layout/activity_item_info.xml" value="0.4" />
+        <entry key="..\:/Users/Win X/Desktop/RDS2 SEM2 MAD/ASSIGNMENT/HotayisStore/app/src/main/res/layout/activity_login.xml" value="0.4" />
+        <entry key="..\:/Users/Win X/Desktop/RDS2 SEM2 MAD/ASSIGNMENT/HotayisStore/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/Win X/Desktop/RDS2 SEM2 MAD/ASSIGNMENT/HotayisStore/app/src/main/res/layout/activity_outbound_complete.xml" value="0.4" />
+        <entry key="..\:/Users/Win X/Desktop/RDS2 SEM2 MAD/ASSIGNMENT/HotayisStore/app/src/main/res/layout/activity_outbound_item_bill.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Win X/Desktop/RDS2 SEM2 MAD/ASSIGNMENT/HotayisStore/app/src/main/res/layout/activity_outbound_item_list.xml" value="0.4" />
+        <entry key="..\:/Users/Win X/Desktop/RDS2 SEM2 MAD/ASSIGNMENT/HotayisStore/app/src/main/res/layout/activity_outbound_item_scan.xml" value="0.4" />
+        <entry key="..\:/Users/Win X/Desktop/RDS2 SEM2 MAD/ASSIGNMENT/HotayisStore/app/src/main/res/layout/activity_outbound_upload.xml" value="0.4" />
+        <entry key="..\:/Users/Win X/Desktop/RDS2 SEM2 MAD/ASSIGNMENT/HotayisStore/app/src/main/res/layout/activity_report.xml" value="0.21422101449275363" />
+        <entry key="..\:/Users/Win X/Desktop/RDS2 SEM2 MAD/ASSIGNMENT/HotayisStore/app/src/main/res/layout/all_item_list.xml" value="0.20989583333333334" />
+        <entry key="..\:/Users/Win X/Desktop/RDS2 SEM2 MAD/ASSIGNMENT/HotayisStore/app/src/main/res/layout/fragment_home.xml" value="0.4" />
+        <entry key="..\:/Users/Win X/Desktop/RDS2 SEM2 MAD/ASSIGNMENT/HotayisStore/app/src/main/res/layout/fragment_inbound.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Win X/Desktop/RDS2 SEM2 MAD/ASSIGNMENT/HotayisStore/app/src/main/res/layout/fragment_login.xml" value="0.21302083333333333" />
+        <entry key="..\:/Users/Win X/Desktop/RDS2 SEM2 MAD/ASSIGNMENT/HotayisStore/app/src/main/res/layout/fragment_outbound.xml" value="0.4774951076320939" />
+        <entry key="..\:/Users/Win X/Desktop/RDS2 SEM2 MAD/ASSIGNMENT/HotayisStore/app/src/main/res/layout/fragment_profile.xml" value="0.264" />
+        <entry key="..\:/Users/Win X/Desktop/RDS2 SEM2 MAD/ASSIGNMENT/HotayisStore/app/src/main/res/layout/fragment_scan_or_search.xml" value="0.2" />
+        <entry key="..\:/Users/Win X/Desktop/RDS2 SEM2 MAD/ASSIGNMENT/HotayisStore/app/src/main/res/layout/ooutbound_item_card_layout.xml" value="0.264" />
+        <entry key="..\:/Users/Win X/Desktop/RDS2 SEM2 MAD/ASSIGNMENT/HotayisStore/app/src/main/res/layout/outbound_card_layout.xml" value="0.4" />
+        <entry key="..\:/Users/Win X/Desktop/RDS2 SEM2 MAD/ASSIGNMENT/HotayisStore/app/src/main/res/layout/outbound_item_card_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Win X/Desktop/RDS2 SEM2 MAD/ASSIGNMENT/HotayisStore/app/src/main/res/layout/outboundpopup.xml" value="0.264" />
+        <entry key="..\:/Users/Win X/Desktop/RDS2 SEM2 MAD/ASSIGNMENT/HotayisStore/app/src/main/res/layout/rackpopup.xml" value="0.536" />
+        <entry key="..\:/Users/Win X/Desktop/RDS2 SEM2 MAD/ASSIGNMENT/HotayisStore/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Win X/Desktop/RDS2 SEM2 MAD/ASSIGNMENT/HotayisStore/app/src/main/res/menu/main_menu.xml" value="0.16" />
+        <entry key="..\:/Users/Win X/Desktop/RDS2 SEM2 MAD/ASSIGNMENT/HotayisStore/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.20572916666666666" />
+        <entry key="..\:/Users/Win X/Desktop/RDS2 SEM2 MAD/ASSIGNMENT/HotayisStore/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.20572916666666666" />
       </map>
     </option>
   </component>
@@ -21,5 +68,12 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.25416666666666665" />
+      </ProjectState>
+    </option>
   </component>
 </project>

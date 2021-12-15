@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "535541281787",
+    "project_id": "assignment-41f0f",
+    "storage_bucket": "assignment-41f0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535541281787:android:561cfbc1aa56b64e31515e",
+        "android_client_info": {
+          "package_name": "com.example.hotayisstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535541281787-vdpj7e8f127k36gv80vkip6m08trqcui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApuyU3J5eiqbANLfmOHzhe79OmTUQsDkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535541281787-vdpj7e8f127k36gv80vkip6m08trqcui.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
